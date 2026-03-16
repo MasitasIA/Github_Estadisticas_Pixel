@@ -17,7 +17,7 @@ export function StatsCard({ username, top3 }: CardProps) {
         color: '#70a5fd',
         padding: '20px',
         borderRadius: '10px', 
-        width: '500px',
+        width: '550px',
         height: '200px',
         border: '1px solid rgba(112, 165, 253, 0.18)', 
         fontFamily: 'CustomFont'

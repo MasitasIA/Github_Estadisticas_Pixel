@@ -102,7 +102,7 @@ export async function GET(
     const svg = await satori(
       SelectedCard,
       {
-        width: 400,
+        width: 550,
         height: 200,
         fonts: [{ name: 'CustomFont', data: fontData, weight: 400, style: 'normal' }],
       }
