@@ -34,12 +34,12 @@ Muestra las Estrellas, Repositorios, Contribuciones y Peticiones de Pull en tu p
 
 **Enlace:**
 ```md
-![Mis Lenguajes](https://github-estadisticas-pixel.vercel.app/api/stats/[TU_USUARIO]?type=general)
+![Mis Estadísticas](https://github-estadisticas-pixel.vercel.app/api/stats/[TU_USUARIO]?type=general)
 ```
 
 **Ejemlo:**
 
-![Mis Estadíscisticas](https://github-estadisticas-pixel.vercel.app/api/stats/MasitasIA?type=general)
+![Mis Estadísticas](https://github-estadisticas-pixel.vercel.app/api/stats/MasitasIA?type=general)
 
 ---
 Hecho por **MasitasIA**. Inspirado en el repositorio de https://github.com/anuraghazra/github-readme-stats
