@@ -17,6 +17,7 @@ Generador dinámico de tarjetas de estadísticas para perfiles de GitHub. Creado
 **Importante:** Recuerda cambiar "[TU_USUARIO]" por tu nombre de usuario de GitHub.
 
 ### 1. Lenguajes Top 3
+
 Muestra los 3 lenguajes de programación más utilizados.
 
 **Enlace:**
@@ -29,10 +30,26 @@ Muestra los 3 lenguajes de programación más utilizados.
 
 ![Mis Lenguajes](https://github-estadisticas-pixel.vercel.app/api/stats/MasitasIA)
 
-### 2. Estadísticas Generales
+### 2. Barra de Lenguajes (Max 10)
+
+Muestras hasta los 10 lenguajes que más contribuyen a tu perfil.
+
+**Enlace:**
+
+```md
+![Mis Lenguajes/Barra](https://github-estadisticas-pixel.vercel.app/api/stats/[TU_USUARIO]?type=bar)
+```
+
+**Ejemplo:**
+
+![Mis Lenguajes/Barra](https://github-estadisticas-pixel.vercel.app/api/stats/MasitasIA?type=bar)
+
+### 3. Estadísticas Generales
+
 Muestra las Estrellas, Repositorios, Contribuciones y Peticiones de Pull en tu perfil.
 
 **Enlace:**
+
 ```md
 ![Mis Estadísticas](https://github-estadisticas-pixel.vercel.app/api/stats/[TU_USUARIO]?type=general)
 ```
@@ -42,4 +59,5 @@ Muestra las Estrellas, Repositorios, Contribuciones y Peticiones de Pull en tu p
 ![Mis Estadísticas](https://github-estadisticas-pixel.vercel.app/api/stats/MasitasIA?type=general)
 
 ---
+
 Hecho por **MasitasIA**. Inspirado en el repositorio de https://github.com/anuraghazra/github-readme-stats
